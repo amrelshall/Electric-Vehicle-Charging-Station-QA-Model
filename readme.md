@@ -140,7 +140,7 @@ This project provides a **production-ready pipeline** for creating a specialized
 
 ### Step 1: Clone Repository
 ```bash
-git clone [<your-repo-url>](https://github.com/amrelshall/Electric-Vehicle-Charging-Station-QA-Model.git)
+git clone https://github.com/amrelshall/Electric-Vehicle-Charging-Station-QA-Model.git
 cd ev-charging-qa-model
 ```
 
@@ -782,3 +782,4 @@ The base model (Qwen 2.5-3B-Instruct) is licensed under Apache 2.0. Check [Qwen'
 **Version**: 1.0.0  
 
 **Status**: Production Ready ✅
+
