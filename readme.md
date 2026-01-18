@@ -734,7 +734,7 @@ If you use this project in your research, please cite:
 @software{ev_charging_qa_2025,
   title = {Electric Vehicle Charging Station QA Model},
   author = {Amr Elshall},
-  year = {2025},
+  year = {2026},
   url = {https://github.com/yourusername/ev-charging-qa},
   note = {Fine-tuned Qwen 2.5-3B model for EV charging domain}
 }
@@ -769,12 +769,12 @@ The base model (Qwen 2.5-3B-Instruct) is licensed under Apache 2.0. Check [Qwen'
 
 ## 📊 Performance Benchmarks
 
-| Metric | Our Model | GPT-3.5 (Zero-shot) | Improvement |
-|--------|-----------|---------------------|-------------|
-| ROUGE-1 | 0.5489 | 0.4521 | +21.4% |
-| ROUGE-2 | 0.3345 | 0.2687 | +24.5% |
-| BLEU | 0.2181 | 0.1834 | +18.9% |
-| Avg Latency | 2.3s | 3.8s | +39.5% faster |
+| Metric | Our Model |
+|--------|-----------|
+| ROUGE-1 | 0.5489 |
+| ROUGE-2 | 0.3345 |
+| BLEU | 0.2181 |
+| Avg Latency | 17.3s |
 
 ---
 
@@ -782,5 +782,6 @@ The base model (Qwen 2.5-3B-Instruct) is licensed under Apache 2.0. Check [Qwen'
 **Version**: 1.0.0  
 
 **Status**: Production Ready ✅
+
 
 
