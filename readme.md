@@ -778,8 +778,9 @@ The base model (Qwen 2.5-3B-Instruct) is licensed under Apache 2.0. Check [Qwen'
 
 ---
 
-**Last Updated**: January 2025  
+**Last Updated**: January 2026  
 **Version**: 1.0.0  
 
 **Status**: Production Ready ✅
+
 
